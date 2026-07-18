@@ -15,7 +15,7 @@ database (MySQL/MariaDB) for analytics and reporting.
 - Docker (for local database setup)
 
 ## Status
-🚧 In progress
+✅ Complete
 
 ## Structure (planned)
 - `extract/` — scripts to pull raw data
